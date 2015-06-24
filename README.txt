@@ -6,7 +6,7 @@
 Пример работы программы:
 
 Первое устройство шлет данные
-![sender](/img/scr1.png?raw=true)
+![sender](https://raw.githubusercontent.com/NaikSoftware/TestJmDNS/master/img/scr1.png)
 
 Второе принимает
-![receiver](/img/scr2.png?raw=true)
+![receiver](https://raw.githubusercontent.com/NaikSoftware/TestJmDNS/master/img/scr2.png)
