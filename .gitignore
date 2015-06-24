@@ -1,6 +1,4 @@
-AndroidDnssdDiscovery/dist
-AndroidDnssdDiscovery/build
-AndroidDnssdDiscovery/nbproject/private
-AndroidDnssdDiscoveryEclipse/bin
-AndroidDnssdDiscoveryEclipse/gen
-unjar
+TestJmDNSProject/dist
+TestJmDNSProject/build
+TestJmDNSProject/bin
+TestJmDNSProject/gen
