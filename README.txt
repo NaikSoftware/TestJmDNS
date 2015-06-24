@@ -6,7 +6,7 @@
 Пример работы программы:
 
 Первое устройство шлет данные
-![sender](./img/scr1.png?raw=true)
+![sender](/img/scr1.png?raw=true)
 
 Второе принимает
-![receiver](./img/scr2.png?raw=true)
+![receiver](/img/scr2.png?raw=true)
