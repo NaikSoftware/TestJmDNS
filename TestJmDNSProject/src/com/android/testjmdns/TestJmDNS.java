@@ -152,7 +152,6 @@ public class TestJmDNS extends Activity {
             jmdns.registerService(serviceInfo);
         } catch (IOException e) {
             e.printStackTrace();
-            return;
         }
     }
 
@@ -163,11 +162,6 @@ public class TestJmDNS extends Activity {
             }
         }, 1);
 
-    }
-
-    @Override
-    protected void onStart() {
-        super.onStart();
     }
 
     @Override
