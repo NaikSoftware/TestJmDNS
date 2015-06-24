@@ -43,12 +43,6 @@ public class TestJmDNS extends Activity {
         srvThread = new Thread(new Runnable() {
             public void run() {
                 try {
-                    try {
-                        Thread.sleep(2000);
-                    } catch (InterruptedException e) {
-                        // TODO Auto-generated catch block
-                        e.printStackTrace();
-                    }
                     server = new ServerSocket();
                     server.bind(new InetSocketAddress(getIpAddr(), PORT));
                     notifyUser("Server started");
